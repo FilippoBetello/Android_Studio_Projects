@@ -12,5 +12,9 @@ Customizable Tabata timer for your ideal workout !!
 - Number of repetitions: number of exercises to be done on each repetition.
 - Number of sets: number of times you want to repeat the workout.
 
-It starts with a rest time to allow for proper warm-up.
-<img src="drawing.jpg" alt="drawing" width="200"/>
+It starts with a rest time to allow for proper warm-up.<br>
+<img src="Screenshot_1589634457.png" alt="drawing" width="200"/>
+<img src="Screenshot_1589634884.png" alt="drawing" width="200"/>
+<img src="Screenshot_1589634873.png" alt="drawing" width="200"/>
+
+## 
