@@ -13,7 +13,8 @@ Customizable Tabata timer for your ideal workout !!
 - Number of sets: number of times you want to repeat the workout.<br>
 
 It starts with a rest time to allow for proper warm-up.<br>
-You can find it [here](https://play.google.com/store/apps/details?id=pippo.judoquiz).<br><br>
+You can find it [here](https://play.google.com/store/apps/details?id=pippo.judoquiz). <br>
+Further note: the layout is all in Italian. I am sorry about that, maybe one day I will translate all.<br><br>
 <img src="Tabata_start.png" alt="drawing" width="200"/>
 <img src="Tabata_ex.png" alt="drawing" width="200"/>
 <img src="Tabata_pause.png" alt="drawing" width="200"/>
@@ -24,7 +25,8 @@ More than 150 questions with 3 options each.<br>
 
 Train your mind and knowledge on judo, with curiosity, Italian-Japanese and Japanese-Italian translations.<br>
 The rules are simple, answer 10 questions correctly to get points. But be careful for each question there is a time limit !! And it is not worth looking on the internet..<br>
-You can find it [here](https://play.google.com/store/apps/details?id=pippo.judoquiz).<br><br>
+You can find it [here](https://play.google.com/store/apps/details?id=pippo.judoquiz).<br>
+Further note: all the questions are in Italian, also the layout. I am sorry about that, maybe one day I will translate all.<br><br>
 <img src="Judo_quiz_start.png" alt="drawing" width="200"/>
 <img src="Judo_quiz_question_1.png" alt="drawing" width="200"/>
 <img src="Judo_quiz_question_2.png" alt="drawing" width="200"/>
@@ -34,10 +36,10 @@ Dedicated to those who don't know what to do in the evening;<br>
 to those who always want to change places to have fun;<br>
 to those who want to make new acquaintances;<br>
 to those who want to go to the club playing their favorite music;<br>
-but above all it is dedicated to all those who always want to party !!!!
-Still under development.
+but above all it is dedicated to all those who always want to party !!!!<br>
+***Still under development.***
 
 ## Information
-The above material is being made for hobby: because of that everything is **uncommented**.<br>
+The above material is being made for personal development: because of that everything is **UNCOMMENTED**.<br>
 If you wish to have the code, send me an [email](mailto:betello.1835108@studenti.uniroma1.it?subject=[GitHub_Android_Studio_projects]) specifing which app you want analize.
 
