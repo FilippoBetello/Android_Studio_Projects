@@ -39,7 +39,7 @@ to those who want to go to the club playing their favorite music;<br>
 but above all it is dedicated to all those who always want to party !!!!<br>
 ***Still under development.***
 
-## Information
+## :studio_microphone:Information
 The above material is being made for personal development: because of that everything is **UNCOMMENTED**.<br>
 If you wish to have the code, send me an [email](mailto:betello.1835108@studenti.uniroma1.it?subject=[GitHub_Android_Studio_projects]) specifing which app you want analize.
 
